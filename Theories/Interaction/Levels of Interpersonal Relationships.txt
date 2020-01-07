@@ -1,0 +1,12 @@
+
+
+Class 0 - 
+Class 1 - A relationship between two people who are familiar with each other and have interacted a few times.
+          Identifiers and other personal details are typically known. Communication is typically sought.
+          Similar to an aquaintance.
+Class 2 - 
+Class 3 - 
+Class 4 - 
+Class 5 - 
+Class 6 - 
+Class 7 - 
