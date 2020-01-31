@@ -1,6 +1,8 @@
 
 
-Class 0 - 
+Class 0 - No relationship present. Two people have not interacted outside of those as defined by societal conventions.
+          Typically people who pass each other on the street, people in the same area and haven't interacted beyond smalltalk.
+          
 Class 1 - A relationship between two people who are familiar with each other and have interacted a few times.
           Identifiers and other personal details are typically known. Communication is typically sought.
           Similar to an aquaintance.
